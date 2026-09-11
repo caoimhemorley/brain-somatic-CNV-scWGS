@@ -20,14 +20,6 @@ The analysis includes steps for:
 
 The exact workflow and parameters may evolve as the project develops.
 
-## Data
-
-The dataset consists of PicoPLEX-amplified single nuclei isolated from Parkinson’s disease and control brain samples and analysed using whole-genome sequencing.
-
-Sample-level metadata included in this repository should be limited to non-identifiable information required for computational processing.
-
-Human genomic sequencing data should be stored and accessed in accordance with the relevant ethical approvals, institutional requirements, and data-access agreements.
-
 ## Software
 
 The workflow consists primarily of Bash scripts that call established third-party bioinformatics tools.
