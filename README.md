@@ -32,7 +32,7 @@ Third-party software remains subject to its respective licensing terms and is no
 
 This repository is under active development.
 
-The current analysis focuses on Parkinson’s disease and control brain samples, with the broader aim of investigating somatic CNVs in single nuclei from the human brain.
+The current analysis focuses on Parkinson’s disease and control brain samples.
 
 Workflow structure, analysis methods, and documentation may change as the project progresses.
 
